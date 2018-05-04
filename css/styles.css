@@ -2,18 +2,26 @@ body {
     background-color: #1A1110;
   }
 #one {
-  background-color: #7CFC00;
+  background-color: #1A1110;
   text-align: center;
-  color: orange;
+  color: yellow;
+  font-size: 70px;
 
 }
 #two {
   background-color: #7CFC00;
   margin-top: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+  text-align: center;
 }
 .container {
   text-align: center;
 }
 p {
   text-align: center;
+}
+.form-group {
+  background-color: grey;
+
 }
