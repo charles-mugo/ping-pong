@@ -4,7 +4,16 @@ body {
 #one {
   background-color: #7CFC00;
   text-align: center;
+  color: orange;
+
 }
 #two {
   background-color: #7CFC00;
+  margin-top: 100px;
+}
+.container {
+  text-align: center;
+}
+p {
+  text-align: center;
 }
