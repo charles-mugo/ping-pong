@@ -1,20 +1,31 @@
 body {
-    background-color: #1A1110;
-  }
+    height: 100%;
+    background: linear-gradient(90deg, #FFC0CB 50%, #00FFFF 50%);
+}
 #one {
-  background-color: #1A1110;
+
   text-align: center;
-  color: yellow;
-  font-size: 70px;
+  color: black;
+
+
+  font-family: 'Caesar Dressing';font-size: 22px;
+  font-size: 100px;
+  border-style: solid;
+  border-width: 0.5px;
+
 
 }
 #two {
-  background-color: #7CFC00;
+
   margin-top: 100px;
   margin-right: 200px;
   margin-left: 200px;
   text-align: center;
+  font-family: 'Oregano';font-size: 22px;
 }
+
+
+
 .container {
   text-align: center;
 }
@@ -22,6 +33,30 @@ p {
   text-align: center;
 }
 .form-group {
-  background-color: grey;
 
+  background-size: auto;
+  padding-top: 8px;
+
+  margin-top: 30px;
+  border-style: solid;
+  border-width: 0.5px;
+  border-radius: 20px;
+
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 2px 1px;
+    cursor: default;
+}
+.button {
+    background-color: pink;
+    color: grey;
+    border: 0px solid #4CAF50;
 }
