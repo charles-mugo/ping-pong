@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # _Ping-Pong_
 
 #### _This application will take a number from a user and return a range of numbers from 1 to the chosen number with certain exceptions_
@@ -35,6 +34,5 @@ _JavaScript/jQuery/css/html
 *_MIT License_*
 
 Copyright (c) 2018
-=======
-# ping
->>>>>>> f333ea426b67c1023e68512e771de8e0f8fa0bc7
+
+
