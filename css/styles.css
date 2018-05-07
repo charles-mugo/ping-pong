@@ -32,10 +32,10 @@ body {
 p {
   text-align: center;
 }
-.form-group {
+.three {
 
   background-size: auto;
-  padding-top: 8px;
+  padding-top: 20px;
 
   margin-top: 30px;
   border-style: solid;
