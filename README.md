@@ -2,7 +2,7 @@
 
 #### _This application will take a number from a user and return a range of numbers from 1 to the chosen number with certain exceptions_
 
-#### By 
+#### By
 
 _Charles Mugo_
 
@@ -27,12 +27,10 @@ _Contact me  at adicharloh@gmail.com_
 
 ## Technologies Used
 
-_JavaScript/jQuery/css/html
+_JavaScript/jQuery/css/html_
 
 ### License
 
 *_MIT License_*
 
 Copyright (c) 2018
-
-
