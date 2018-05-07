@@ -45,7 +45,7 @@ p {
 
 }
 .button {
-    background-color: #4CAF50; /* Green */
+    background-color: #4CAF50;
     border: none;
 
     padding: 10px 30px;
@@ -58,6 +58,18 @@ p {
 }
 .button {
     background-color: pink;
-    color: grey;
+    color: black;
     border: 0px solid #4CAF50;
+    font-size: 20px;
+    font-family: 'Oregano';
+}
+
+#myDIV {
+    width: 20%;
+    padding: 50px 0;
+    text-align: center;
+    background-color: #00FFFF;
+    margin-top: 0px;
+    float: none;
+    margin-left: 450px;
 }
