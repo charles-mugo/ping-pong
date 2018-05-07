@@ -9,14 +9,36 @@
   <script src="https://code.jquery.com/jquery-1.12.0.js"></script>
   <script src="js/scripts.js" type="text/javascript"></script>
   <link rel="stylesheet" href="css/styles.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 <link href='https://fonts.googleapis.com/css?family=Caesar Dressing' rel='stylesheet'>
 <link href='https://fonts.googleapis.com/css?family=Oregano' rel='stylesheet'>
 </head>
 <body meta charset="utf-8">
   <title>pingpong game</title>
+
   <div class="container">
     <h1 Id="one">Ping-Pong</h1>
-    <button class="button">About</button>
+
+<button onclick="myFunction()" class="button">About</button>
+
+<div id="myDIV">
+<p><em><strong>Author</strong></em>:<br>Charles Mugo</p>ir
+</div>
+
+
+
+      <script>
+      function myFunction() {
+      var x = document.getElementById("myDIV");
+      if (x.style.display === "none") {
+        x.style.display = "block";
+       } else {
+        x.style.display = "none";
+      }
+    }
+    </script>
+
+
     <div Id="two">
     <h3>Let's play!</h3>
     <h4>Rules:</h4>
