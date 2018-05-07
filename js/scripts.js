@@ -1,4 +1,3 @@
-
 //Business Logic
 var countUp = function(count){
   var result = [];
@@ -35,6 +34,5 @@ $(document).ready(function(){
       $("#output").append('<li>' + item + '</li>');
     });
     event.preventDefault();
-    
   });
 });
